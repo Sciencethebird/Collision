@@ -1,0 +1,16 @@
+
+*.log
+*.vcxproj
+*.pdb
+Ball_Collision/.vs/Ball_Collision/v15/.suo
+*.db
+*.ipch
+*.sln
+*.filters
+*.user
+Ball_Collision/Ball_Collision/Debug/Ball_Collision.pch
+Ball_Collision/Ball_Collision/Debug/Ball_Collision.obj
+*.lastbuildstate
+*.tlog
+*.idb
+*.obj
