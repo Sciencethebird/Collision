@@ -1,10 +1,8 @@
 # Ball-Collision
 Final project for OOP course, NCTU ME.
-
+Using OpenGL
 ******
 # About this project
-
-   OpenGL
    
 - Environment
      - VS 2015
