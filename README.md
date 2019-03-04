@@ -14,7 +14,7 @@ Using OpenGL
 
 
 ![Alt text](https://github.com/Sciencethebird/Collision/blob/master/collision_demo_1.PNG)
-- Real 2D collision motion
+- Real 2D collision motion(ignoring mass differenece)
 - Ball bounces off the edges of the window
 - Color of the balls are random.
 - You can choose initial velocity, start point, and size of a ball by mouse.
@@ -27,6 +27,10 @@ Using OpenGL
 - How to include external libraries
 - Understaning the basics of OpenGL
 - 2D collision (physics)
+
+****
+# Future Improvement
+- Remove some bad coding practice
 ****
 # Why
 - I'm kinda interested in game/graphics programming. 
