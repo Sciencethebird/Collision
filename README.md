@@ -1,6 +1,6 @@
 # Ball-Collision
-OpenGL Learning Project\n
-This is the final project for OOP course, NCTU ME
+OpenGL Learning Project.
+This is the final project for OOP course, NCTU ME.
 
 
 ******
