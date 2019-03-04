@@ -6,8 +6,8 @@ Final project for OOP course, NCTU ME.
 
 
 ![Alt text](https://github.com/Sciencethebird/Collision/blob/master/collision_demo_1.PNG)
-- Color of balls is random
-- You can choose initial velocity and size of the ball
+- Color of the balls is random
+- You can choose initial velocity, start point, and size of a ball
 - You can add as many balls as you want
 ****
 # Why
