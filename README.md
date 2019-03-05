@@ -5,7 +5,7 @@ Using OpenGL
 # About this project
   
 - Environment
-     - VS 2015
+     - VS 2017
 - Libraries
      - GLFW
      - GLEW
