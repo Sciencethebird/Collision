@@ -14,18 +14,18 @@ Using OpenGL
 
 
 ![Alt text](https://github.com/Sciencethebird/Collision/blob/master/collision_demo_1.PNG)
-- Real 2D collision motion(ignoring mass differenece)
-- Ball bounces off the edges of window
-- Color of balls are random.
-- You can choose initial velocity, start point, and size of a ball by mouse.
-- Every time you click, a new Polygon Object is created and registered to the simple physics engine I wrote. Therefore, as long as your computer can handle, You can add as many balls as you want.
-- Red arrow indicates the velocity of a ball.
+- Real 2D collision motion(mass difference ignored)
+- Ball bounces off the edges of the window
+- The ball color is randomly initialized.
+- You can choose the initial velocity, start point, and size of a ball by mouse.
+- A new Polygon Object is created at the instant user click the mouse. The created ball object is then registered to the simple physics engine I wrote, which checks if there are balls collided. Therefore, as long as your computer can handle, You can add as many balls as you want.
+- The red arrow indicates the velocity of a ball.
 
 ****
 # What I Learned 
 - Utilize the concept of OOP to make something a bit more complex
 - How to include external libraries
-- Understaning the basics of OpenGL
+- Understanding the basics of OpenGL
 - 2D collision (physics)
 
 ****
@@ -34,4 +34,4 @@ Using OpenGL
 ****
 # Why
 - I'm kinda interested in game/graphics programming. 
-- Ultilze OOP concept I learned
+- Utilize OOP concept I learned
