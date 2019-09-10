@@ -18,7 +18,7 @@ Using OpenGL
 - Ball bounces off the edges of the window
 - The ball color is randomly initialized.
 - You can choose the initial velocity, start point, and size of a ball by mouse.
-- A new Polygon Object is created at the instant user click the mouse. The created ball object is then registered to the simple physics engine I wrote, which checks if there are balls collided. Therefore, as long as your computer can handle, You can add as many balls as you want.
+- A new Polygon Object is created at the instant user click the mouse. The created ball object is then registered to the simple physics engine I wrote, which checks if there are balls collided. As long as your computer can handle, You can add as many balls as you want.
 - The red arrow indicates the velocity of a ball.
 
 ****
