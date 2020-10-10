@@ -13,7 +13,7 @@ Using OpenGL
 ******
 
 - YouTube:https://youtu.be/46IL5kq_HOI
-![Alt text](https://github.com/Sciencethebird/Collision/blob/master/collision_demo_1.PNG)(https://youtu.be/46IL5kq_HOI)
+[![Alt text](https://github.com/Sciencethebird/Collision/blob/master/collision_demo_1.PNG)(https://youtu.be/46IL5kq_HOI)
 - Real 2D collision motion(mass difference ignored)
 - Ball bounces off the edges of the window
 - Ball color is randomly initialized.
